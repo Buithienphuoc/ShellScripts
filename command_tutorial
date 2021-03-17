@@ -1,0 +1,14 @@
+cd
+pwd
+ls
+cp
+mv
+rm
+echo
+cat : show data in file
+less : same with cat but in the whole window
+grep
+mkdir
+touch : create multiple files
+chmod : permissions
+man + help
