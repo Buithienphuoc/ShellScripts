@@ -13,3 +13,9 @@ echo "What is your name ?"
 read PERSON
 echo "Welcome to the new world, $PERSON"
 echo "My name is $AUTHOR, I am the author of this script"
+
+chmod +x loops_demo.sh
+./loops_demo.sh
+
+chmod +x special_symbol.sh
+./special_symbol.sh Hello Anna he he he
